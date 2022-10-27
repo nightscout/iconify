@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+*/jacoco.exec
+/build
+/captures
+*.apk
+build/
+!.idea/dictionaries/project-dictionary.xml
+.idea/*
+!.idea/codeStyles/
+full/
+app/com.crashlytics.settings.json
+app/session_analytics.tap
+.project
+.settings/org.eclipse.buildship.core.prefs
